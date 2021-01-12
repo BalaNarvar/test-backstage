@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: rulesengine-component
+  description: Rule Engine Componenet
+  tags:
+    - Java
+    - node
+spec:
+  type: service
+  lifecycle: experimental
+  owner: Bala
