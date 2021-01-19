@@ -1,12 +1,12 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: test-backstage
+  name: testingbackstage
   description: Test Backstage catalog
   tags:
-    - python
+    - Java
     - node
 spec:
   type: service
   lifecycle: experimental
-  owner: divyaarjnani
+  owner: bala
